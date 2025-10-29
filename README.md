@@ -25,13 +25,6 @@ A text-based role-playing game (RPG) implemented in Python. Explore areas, battl
 - Python 3.8 or higher
 - Terminal or Command Prompt to run the game
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/text-rpg.git
-
 
 text-rpg/
 │
@@ -45,3 +38,9 @@ text-rpg/
 ├── items.py            # Items and buffs definitions
 ├── utils.py            # Utility functions (e.g., slow_print, fibonacci)
 └── README.md           # Project documentation
+
+### Installation:
+```bash
+git clone https://github.com/yourusername/text-rpg.git
+cd text-rpg
+python main.py
