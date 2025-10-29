@@ -25,7 +25,9 @@ A text-based role-playing game (RPG) implemented in Python. Explore areas, battl
 - Python 3.8 or higher
 - Terminal or Command Prompt to run the game
 
+### Project Structure:
 
+```bash
 text-rpg/
 │
 ├── main.py             # Main program to start the game
@@ -38,6 +40,7 @@ text-rpg/
 ├── items.py            # Items and buffs definitions
 ├── utils.py            # Utility functions (e.g., slow_print, fibonacci)
 └── README.md           # Project documentation
+```
 
 ### Installation:
 ```bash
